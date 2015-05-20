@@ -26,9 +26,10 @@ p {
 .hiddensection {
   overflow: hidden;
   height: 43px;
-  // transition: all 1s ease;
+  transition: height 1s ease;
 }
 
 .displayedsection {
   height: 168px;
+  transition: height 1s ease;
 }
